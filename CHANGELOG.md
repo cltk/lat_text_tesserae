@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.6] - 2026-07-06
+
+### Fixed
+- Corrected hyphenation and standardized dash usage across 337 files: added missing space after em dashes where text ran directly into the following word (e.g. `—et` → `— et`).
+
 ## [0.5] - 2026-06-11
 
 ### Changed
